@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/land-entry-form/static/css/main.b9848baf.css",
+    "main.js": "/land-entry-form/static/js/main.da3468d3.js",
+    "index.html": "/land-entry-form/index.html",
+    "main.b9848baf.css.map": "/land-entry-form/static/css/main.b9848baf.css.map",
+    "main.da3468d3.js.map": "/land-entry-form/static/js/main.da3468d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9848baf.css",
+    "static/js/main.da3468d3.js"
+  ]
+}
